@@ -1,0 +1,143 @@
+A volcano is a rupture in the crust of a planetary-mass object, such as Earth, that allows hot lava, volcanic ash, and gases to escape from a magma chamber below the surface.
+
+On Earth, volcanoes are most often found where tectonic plates are diverging or converging, and most are found underwater. For example, a mid-ocean ridge, such as the Mid-Atlantic Ridge, has volcanoes caused by divergent tectonic plates whereas the Pacific Ring of Fire has volcanoes caused by convergent tectonic plates. Volcanoes can also form where there is stretching and thinning of the crust's plates, such as in the East African Rift and the Wells Gray-Clearwater volcanic field and Rio Grande rift in North America. Volcanism away from plate boundaries has been postulated to arise from upwelling diapirs from the core–mantle boundary, 3,000 kilometers (1,900 mi) deep in the Earth. This results in hotspot volcanism, of which the Hawaiian hotspot is an example. Volcanoes are usually not created where two tectonic plates slide past one another.
+
+Large eruptions can affect atmospheric temperature as ash and droplets of sulfuric acid obscure the Sun and cool the Earth's troposphere. Historically, large volcanic eruptions have been followed by volcanic winters which have caused catastrophic famines.[1]
+
+Other planets besides Earth have volcanoes. For example, Mercury has pyroclastic deposits formed by explosive volcanic activity.[2]
+
+Etymology
+The word volcano is derived from the name of Vulcano, a volcanic island in the Aeolian Islands of Italy whose name in turn comes from Vulcan, the god of fire in Roman mythology.[3] The study of volcanoes is called volcanology, sometimes spelled vulcanology.[4]
+
+Plate tectonics
+Main article Plate tectonics
+
+Map showing the divergent plate boundaries (oceanic spreading ridges) and recent sub-aerial volcanoes (mostly at convergent boundaries)
+According to the theory of plate tectonics, Earth's lithosphere, its rigid outer shell, is broken into sixteen larger and several smaller plates. These are in slow motion, due to convection in the underlying ductile mantle, and most volcanic activity on Earth takes place along plate boundaries, where plates are converging (and lithosphere is being destroyed) or are diverging (and new lithosphere is being created).[5]
+
+Divergent plate boundaries
+Main article Divergent boundary
+At the mid-ocean ridges, two tectonic plates diverge from one another as hot mantle rock creeps upwards beneath the thinned oceanic crust. The decrease of pressure in the rising mantle rock leads to adiabatic expansion and the partial melting of the rock, causing volcanism and creating new oceanic crust. Most divergent plate boundaries are at the bottom of the oceans, and so most volcanic activity on the Earth is submarine, forming new seafloor. Black smokers (also known as deep sea vents) are evidence of this kind of volcanic activity. Where the mid-oceanic ridge is above sea level, volcanic islands are formed, such as Iceland.[6]
+
+Convergent plate boundaries
+Main article Convergent boundary
+Subduction zones are places where two plates, usually an oceanic plate and a continental plate, collide. The oceanic plate subducts (dives beneath the continental plate), forming a deep ocean trench just offshore. In a process called flux melting, water released from the subducting plate lowers the melting temperature of the overlying mantle wedge, thus creating magma. This magma tends to be extremely viscous because of its high silica content, so it often does not reach the surface but cools and solidifies at depth. When it does reach the surface, however, a volcano is formed. Thus subduction zones are bordered by chains of volcanoes called volcanic arcs. Typical examples are the volcanoes in the Pacific Ring of Fire, such as the Cascade Volcanoes or the Japanese Archipelago, or the eastern islands of Indonesia.[7]
+
+Hotspots
+Main article Hotspot (geology)
+Hotspots are volcanic areas thought to be formed by mantle plumes, which are hypothesized to be columns of hot material rising from the core-mantle boundary. As with mid-ocean ridges, the rising mantle rock experiences decompression melting which generates large volumes of magma. Because tectonic plates move across mantle plumes, each volcano becomes inactive as it drifts off the plume, and new volcanoes are created where the plate advances over the plume. The Hawaiian Islands are thought to have been formed in such a manner, as has the Snake River Plain, with the Yellowstone Caldera being the part of the North American plate currently above the Yellowstone hotspot.[8] However, the mantle plume hypothesis has been questioned.[9]
+
+Continental rifting
+Main article Rift
+Sustained upwelling of hot mantle rock can develop under the interior of a continent and lead to rifting. Early stages of rifting are characterized by flood basalts and may progress to the point where a tectonic plate is completely split.[10][11] A divergent plate boundary then develops between the two halves of the split plate. However, rifting often fails to completely split the continental lithosphere (such as in an aulacogen), and failed rifts are characterized by volcanoes that erupt unusual alkali lava or carbonatites. Examples include the volcanoes of the East African Rift.[12]
+
+Volcanic features
+Further information Types of volcanoes
+
+Lakagigar fissure vent in Iceland, the source of the major world climate alteration of 1783–84, has a chain of volcanic cones along its length.
+
+Skjaldbreiður, a shield volcano whose name means broad shield
+The most common perception of a volcano is of a conical mountain, spewing lava and poisonous gases from a crater at its summit; however, this describes just one of the many types of volcano. The features of volcanoes are much more complicated and their structure and behavior depends on a number of factors. Some volcanoes have rugged peaks formed by lava domes rather than a summit crater while others have landscape features such as massive plateaus. Vents that issue volcanic material (including lava and ash) and gases (mainly steam and magmatic gases) can develop anywhere on the landform and may give rise to smaller cones such as Puʻu ʻŌʻō on a flank of Kīlauea in Hawaii. Other types of volcano include cryovolcanoes (or ice volcanoes), particularly on some moons of Jupiter, Saturn, and Neptune; and mud volcanoes, which are formations often not associated with known magmatic activity. Active mud volcanoes tend to involve temperatures much lower than those of igneous volcanoes except when the mud volcano is actually a vent of an igneous volcano.
+
+Fissure vents
+Main article Fissure vent
+Volcanic fissure vents are flat, linear fractures through which lava emerges.
+
+Shield volcanoes
+Main article Shield volcano
+Shield volcanoes, so named for their broad, shield-like profiles, are formed by the eruption of low-viscosity lava that can flow a great distance from a vent. They generally do not explode catastrophically, but are characterized by relatively gentle effusive eruptions. Since low-viscosity magma is typically low in silica, shield volcanoes are more common in oceanic than continental settings. The Hawaiian volcanic chain is a series of shield cones, and they are common in Iceland, as well.
+
+Lava domes
+Main article Lava dome
+Lava domes are built by slow eruptions of highly viscous lava. They are sometimes formed within the crater of a previous volcanic eruption, as in the case of Mount St. Helens, but can also form independently, as in the case of Lassen Peak. Like stratovolcanoes, they can produce violent, explosive eruptions, but the lava generally does not flow far from the originating vent.
+
+Cryptodomes
+Cryptodomes are formed when viscous lava is forced upward causing the surface to bulge. The 1980 eruption of Mount St. Helens was an example; lava beneath the surface of the mountain created an upward bulge, which later collapsed down the north side of the mountain.
+
+Cinder cones
+Main articles volcanic cone and Cinder cone
+
+Izalco volcano, the youngest volcano in El Salvador. Izalco erupted almost continuously from 1770 (when it formed) to 1958, earning it the nickname of Lighthouse of the Pacific.
+Cinder cones result from eruptions of mostly small pieces of scoria and pyroclastics (both resemble cinders, hence the name of this volcano type) that build up around the vent. These can be relatively short-lived eruptions that produce a cone-shaped hill perhaps 30 to 400 meters (100 to 1,300 ft) high. Most cinder cones erupt only once. Cinder cones may form as flank vents on larger volcanoes, or occur on their own. Parícutin in Mexico and Sunset Crater in Arizona are examples of cinder cones. In New Mexico, Caja del Rio is a volcanic field of over 60 cinder cones.
+
+Based on satellite images, it was suggested that cinder cones might occur on other terrestrial bodies in the Solar system too; on the surface of Mars and the Moon.[13][14][15][16]
+
+Stratovolcanoes (composite volcanoes)
+
+Cross-section through a stratovolcano (vertical scale is exaggerated)
+Large magma chamber
+Bedrock
+Conduit (pipe)
+Base
+Sill
+Dike
+Layers of ash emitted by the volcano
+Flank
+Layers of lava emitted by the volcano
+Throat
+Parasitic cone
+Lava flow
+Vent
+Crater
+Ash cloud
+Main article Stratovolcano
+Stratovolcanoes (composite volcanoes) are tall conical mountains composed of lava flows and tephra in alternate layers, the strata that gives rise to the name. They are also known as composite volcanoes because they are created from multiple structures during different kinds of eruptions. Classic examples include Mount Fuji in Japan, Mayon Volcano in the Philippines, and Mount Vesuvius and Stromboli in Italy.
+
+Ash produced by the explosive eruption of stratovolcanoes has historically posed the greatest volcanic hazard to civilizations. The lavas of stratovolcanoes are higher in silica, and therefore much more viscous, than lavas from shield volcanoes. High-silica lavas also tend to contain more dissolved gas. The combination is deadly, promoting explosive eruptions that produce great quantities of ash, as well as pyroclastic surges like the one that destroyed the city of Saint-Pierre in Martinique in 1902. They are also steeper than shield volcanoes, with slopes of 30–35° compared to slopes of generally 5–10°, and their loose tephra are material for dangerous lahars.[17] Large pieces of tephra are called volcanic bombs. Big bombs can measure more than 4 feet (1.2 meters) across and weigh several tons.[18]
+
+Supervolcanoes
+Main article Supervolcano
+See also List of largest volcanic eruptions
+A supervolcano is a volcano that has experienced one or more eruptions that produced over 1,000 cubic kilometers (240 cu mi) of volcanic deposits in a single explosive event.[19] Such eruptions occur when a very large magma chamber full of gas-rich, silicic magma is emptied in a catastrophic caldera-forming eruption. Ash flow tuffs emplaced by such eruptions are the only volcanic product with volumes rivaling those of flood basalts.[20]
+
+A supervolcano can produce devastation on a continental scale. Such volcanoes are able to severely cool global temperatures for many years after the eruption due to the huge volumes of sulfur and ash released into the atmosphere. They are the most dangerous type of volcano. Examples include Yellowstone Caldera in Yellowstone National Park and Valles Caldera in New Mexico (both western United States); Lake Taupō in New Zealand; Lake Toba in Sumatra, Indonesia; and Ngorongoro Crater in Tanzania. Fortunately, supervolcano eruptions are very rare events, though because of the enormous area they cover, and subsequent concealment under vegetation and glacial deposits, supervolcanoes can be difficult to identify in the geologic record without careful geologic mapping.[21]
+
+Submarine volcanoes
+Main article Submarine volcano
+See also Subaqueous volcano
+
+Satellite images of the 15 January 2022 eruption of Hunga Tonga-Hunga Haʻapai
+Submarine volcanoes are common features of the ocean floor. Volcanic activity during the Holocene Epoch has been documented at only 119 submarine volcanoes, but there may be more than one million geologically young submarine volcanoes on the ocean floor.[22][23] In shallow water, active volcanoes disclose their presence by blasting steam and rocky debris high above the ocean's surface. In the deep ocean basins, the tremendous weight of the water prevents the explosive release of steam and gases; however, submarine eruptions can be detected by hydrophones and by the discoloration of water because of volcanic gases. Pillow lava is a common eruptive product of submarine volcanoes and is characterized by thick sequences of discontinuous pillow-shaped masses which form under water. Even large submarine eruptions may not disturb the ocean surface, due to the rapid cooling effect and increased buoyancy in water (as compared to air), which often causes volcanic vents to form steep pillars on the ocean floor. Hydrothermal vents are common near these volcanoes, and some support peculiar ecosystems based on chemotrophs feeding on dissolved minerals. Over time, the formations created by submarine volcanoes may become so large that they break the ocean surface as new islands or floating pumice rafts.
+
+In May and June 2018, a multitude of seismic signals were detected by earthquake monitoring agencies all over the world. They took the form of unusual humming sounds, and some of the signals detected in November of that year had a duration of up to 20 minutes. An oceanographic research campaign in May 2019 showed that the previously mysterious humming noises were caused by the formation of a submarine volcano off the coast of Mayotte.[24]
+
+Subglacial volcanoes
+Main article Subglacial volcano
+Subglacial volcanoes develop underneath icecaps. They are made up of lava plateaus capping extensive pillow lavas and palagonite. These volcanoes are also called table mountains, tuyas,[25] or (in Iceland) mobergs.[26] Very good examples of this type of volcano can be seen in Iceland and in British Columbia. The origin of the term comes from Tuya Butte, which is one of the several tuyas in the area of the Tuya River and Tuya Range in northern British Columbia. Tuya Butte was the first such landform analyzed and so its name has entered the geological literature for this kind of volcanic formation.[27] The Tuya Mountains Provincial Park was recently established to protect this unusual landscape, which lies north of Tuya Lake and south of the Jennings River near the boundary with the Yukon Territory.
+
+Mud volcanoes
+Main article Mud volcano
+Mud volcanoes (mud domes) are formations created by geo-excreted liquids and gases, although there are several processes which may cause such activity.[28] The largest structures are 10 kilometers in diameter and reach 700 meters high.[29]
+
+Erupted material
+
+Pāhoehoe lava flow on Hawaii. The picture shows overflows of a main lava channel.
+
+The Stromboli stratovolcano off the coast of Sicily has erupted continuously for thousands of years, giving rise to its nickname Lighthouse of the Mediterranean.
+The material that is expelled in a volcanic eruption can be classified into three types
+
+Volcanic gases, a mixture made mostly of steam, carbon dioxide, and a sulfur compound (either sulfur dioxide, SO2, or hydrogen sulfide, H2S, depending on the temperature)
+Lava, the name of magma when it emerges and flows over the surface
+Tephra, particles of solid material of all shapes and sizes ejected and thrown through the air[30][31]
+Volcanic gases
+Main article Volcanic gas
+The concentrations of different volcanic gases can vary considerably from one volcano to the next. Water vapor is typically the most abundant volcanic gas, followed by carbon dioxide[32] and sulfur dioxide. Other principal volcanic gases include hydrogen sulfide, hydrogen chloride, and hydrogen fluoride. A large number of minor and trace gases are also found in volcanic emissions, for example hydrogen, carbon monoxide, halocarbons, organic compounds, and volatile metal chlorides.
+
+Lava flows
+Main article Lava flow
+
+Mount Rinjani eruption in 1994, in Lombok, Indonesia
+The form and style of eruption of a volcano is largely determined by the composition of the lava it erupts. The viscosity (how fluid the lava is) and the amount of dissolved gas are the most important characteristics of magma, and both are largely determined by the amount of silica in the magma. Magma rich in silica is much more viscous than silica-poor magma, and silica-rich magma also tends to contain more dissolved gases.
+
+Lava can be broadly classified into four different compositions[33]
+
+If the erupted magma contains a high percentage (63%) of silica, the lava is described as felsic. Felsic lavas (dacites or rhyolites) are highly viscous and are erupted as domes or short, stubby flows.[34] Lassen Peak in California is an example of a volcano formed from felsic lava and is actually a large lava dome.[35]
+Because felsic magmas are so viscous, they tend to trap volatiles (gases) that are present, which leads to explosive volcanism. Pyroclastic flows (ignimbrites) are highly hazardous products of such volcanoes, since they hug the volcano's slopes and travel far from their vents during large eruptions. Temperatures as high as 850 °C (1,560 °F)[36] are known to occur in pyroclastic flows, which will incinerate everything flammable in their path, and thick layers of hot pyroclastic flow deposits can be laid down, often many meters thick.[37] Alaska's Valley of Ten Thousand Smokes, formed by the eruption of Novarupta near Katmai in 1912, is an example of a thick pyroclastic flow or ignimbrite deposit.[38] Volcanic ash that is light enough to be erupted high into the Earth's atmosphere as an eruption column may travel hundreds of kilometers before it falls back to ground as a fallout tuff. Volcanic gases may remain in the stratosphere for years.[39]
+Felsic magmas are formed within the crust, usually through melting of crust rock from the heat of underlying mafic magmas. The lighter felsic magma floats on the mafic magma without significant mixing.[40] Less commonly, felsic magmas are produced by extreme fractional crystallization of more mafic magmas.[41] This is a process in which mafic minerals crystallize out of the slowly cooling magma, which enriches the remaining liquid in silica.
+If the erupted magma contains 52–63% silica, the lava is of intermediate composition or andesitic. Intermediate magmas are characteristic of stratovolcanoes.[42] They are most commonly formed at convergent boundaries between tectonic plates, by several processes. One process is hydration melting of mantle peridotite followed by fractional crystallization. Water from a subducting slab rises into the overlying mantle, lowering its melting point, particularly for the more silica-rich minerals. Fractional crystallization further enriches the magma in silica. It has also been suggested that intermediate magmas are produced by melting of sediments carried downwards by the subducted slab.[43] Another process is magma mixing between felsic rhyolitic and mafic basaltic magmas in an intermediate reservoir prior to emplacement or lava flow.[44]
+If the erupted magma contains 52% and 45% silica, the lava is called mafic (because it contains higher percentages of magnesium (Mg) and iron (Fe)) or basaltic. These lavas are usually hotter and much less viscous than felsic lavas. Mafic magmas are formed by partial melting of dry mantle, with limited fractional crystallization and assimilation of crustal material.[45]
+Mafic lavas occur in a wide range of settings. These include mid-ocean ridges; Shield volcanoes (such the Hawaiian Islands, including Mauna Loa and Kilauea), on both oceanic and continental crust; and as continental flood basalts.
+Some erupted magmas contain ≤45% silica and produce ultramafic lava. Ultramafic flows, also known as komatiites, are very rare; indeed, very few have been erupted at the Earth's surface since the Proterozoic, when the planet's heat flow was higher. They are (or were) the hottest lavas, and were probably more fluid than common mafic lavas, with a viscosity less than a tenth that of hot basalt magma.[46]
+Mafic lava flows show two varieties of surface texture ʻAʻa (pronounced [ˈʔaʔa]) and pāhoehoe ([paːˈho.eˈho.e]), both Hawaiian words. ʻAʻa is characterized by a rough, clinkery surface and is the typical texture of cooler basalt lava flows. Pāhoehoe is characterized by its smooth and often ropey or wrinkly surface and is generally formed from more fluid lava flows. Pāhoehoe flows are sometimes observed to transition to ʻaʻa flows as they move away from the vent, but never the reverse.[47]
+
+More silicic lava flows take the form of block lava, where the flow is covered with angular, vesicle-poor blocks. Rhyolitic flows typically consist largely of obsidian.[48]
